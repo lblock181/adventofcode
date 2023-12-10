@@ -1,4 +1,6 @@
-dirpath = "C:/Users/lbloc/Documents/AdventofCode/day2/"
+import os
+
+dirpath = os.getcwd()
 # filename = "ex1.txt"
 # filename = "ex2.txt"
 # filename = "input1.txt"
